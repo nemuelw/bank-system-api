@@ -19,7 +19,8 @@ You can now start interacting with the API's various endpoints .
 
 ## NOTE:
    Running the setup.js file simply adds the admin credentials to the database . \
-      usrnm: admin & passwd: password123 \
+      usrnm: admin \
+      passwd: password123 
 
 ## Next Steps   
    Next steps would involve adding tellers, and afterwards the customers as well . \
