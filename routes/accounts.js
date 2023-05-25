@@ -75,4 +75,4 @@ router.get('/:acct_no',verifyTjwt , (req, res) => {
         })
 })
 
-module.exports = router 
+module.exports = router
